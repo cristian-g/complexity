@@ -1,0 +1,45 @@
+Id	Name	Partner	Father	Mother
+1	Queen Elizabeth	2		
+2	King George VI	1		
+3	Queen Elizabeth II	5	2	1
+4	Princess Margaret	6	2	1
+5	Prince Philip	3		
+6	Antony	4		
+7	Charles 	11,12	5	3
+8	Anne	13,14	5	3
+9	Edward	15	5	3
+10	Andrew	16	5	3
+11	Diana	7		
+12	Camilla	7		
+13	Mark	8		
+14	Timothy	8		
+15	Sophie	9		
+16	Sarah	10		
+17	William		7	11
+18	Harry		7	11
+19	Catherine	17		
+20	Meghan	18		
+21	George		17	19
+22	Charlotte		17	19
+23	Louis		17	19
+24	Peter	26	13	8
+25	Zara	27	13	8
+26	Autumn	24		
+27	Michael	25		
+28	Savannah		24	26
+29	Isla Elisabeth		24	26
+30	Mia		27	25
+31	Lena		27	25
+32	Louise		9	15
+33	James		9	15
+34	Beatrice		10	16
+35	Eugenie	36	10	16
+36	Jack	35		
+37	David	39	6	4
+38	Sarah Armstrong	40	6	4
+39	Serena	37		
+40	Daniel	38		
+41	Charles Armstrong		37	39
+42	Margarita		37	39
+43	Samuel		40	38
+44	Arthur		40	38
